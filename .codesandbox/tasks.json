@@ -1,0 +1,218 @@
+{
+  // These tasks will run in order when initializing your CodeSandbox project.
+  "setupTasks": [
+    {
+      "name": "Install Dependencies",
+      "command": "npm install"
+    }
+  ],
+
+  // These tasks can be run from CodeSandbox. Running one will open a log in the app.
+  "tasks": {
+    "exercise": {
+      "name": "exercise",
+      "command": "npm run exercise",
+      "runAtStart": false
+    },
+    "e": {
+      "name": "e",
+      "command": "npm run e",
+      "runAtStart": false
+    },
+    "solution": {
+      "name": "solution",
+      "command": "npm run solution",
+      "runAtStart": false
+    },
+    "s": {
+      "name": "s",
+      "command": "npm run s",
+      "runAtStart": false
+    },
+    "prepare": {
+      "name": "prepare",
+      "command": "npm run prepare",
+      "runAtStart": false
+    },
+    "e-01": {
+      "name": "e-01",
+      "command": "npm run e-01",
+      "runAtStart": false
+    },
+    "s-01": {
+      "name": "s-01",
+      "command": "npm run s-01",
+      "runAtStart": false
+    },
+    "e-02": {
+      "name": "e-02",
+      "command": "npm run e-02",
+      "runAtStart": false
+    },
+    "s-02": {
+      "name": "s-02",
+      "command": "npm run s-02",
+      "runAtStart": false
+    },
+    "e-03": {
+      "name": "e-03",
+      "command": "npm run e-03",
+      "runAtStart": false
+    },
+    "s-03": {
+      "name": "s-03",
+      "command": "npm run s-03",
+      "runAtStart": false
+    },
+    "e-04": {
+      "name": "e-04",
+      "command": "npm run e-04",
+      "runAtStart": false
+    },
+    "s-04": {
+      "name": "s-04",
+      "command": "npm run s-04",
+      "runAtStart": false
+    },
+    "e-05": {
+      "name": "e-05",
+      "command": "npm run e-05",
+      "runAtStart": false
+    },
+    "s-05": {
+      "name": "s-05",
+      "command": "npm run s-05",
+      "runAtStart": false
+    },
+    "e-06": {
+      "name": "e-06",
+      "command": "npm run e-06",
+      "runAtStart": false
+    },
+    "s-06": {
+      "name": "s-06",
+      "command": "npm run s-06",
+      "runAtStart": false
+    },
+    "e-07": {
+      "name": "e-07",
+      "command": "npm run e-07",
+      "runAtStart": false
+    },
+    "s-07": {
+      "name": "s-07",
+      "command": "npm run s-07",
+      "runAtStart": false
+    },
+    "e-08": {
+      "name": "e-08",
+      "command": "npm run e-08",
+      "runAtStart": false
+    },
+    "s-08": {
+      "name": "s-08",
+      "command": "npm run s-08",
+      "runAtStart": false
+    },
+    "e-09": {
+      "name": "e-09",
+      "command": "npm run e-09",
+      "runAtStart": false
+    },
+    "s-09": {
+      "name": "s-09",
+      "command": "npm run s-09",
+      "runAtStart": false
+    },
+    "e-10": {
+      "name": "e-10",
+      "command": "npm run e-10",
+      "runAtStart": false
+    },
+    "s-10": {
+      "name": "s-10",
+      "command": "npm run s-10",
+      "runAtStart": false
+    },
+    "e-11": {
+      "name": "e-11",
+      "command": "npm run e-11",
+      "runAtStart": false
+    },
+    "s-11": {
+      "name": "s-11",
+      "command": "npm run s-11",
+      "runAtStart": false
+    },
+    "e-12": {
+      "name": "e-12",
+      "command": "npm run e-12",
+      "runAtStart": false
+    },
+    "s-12": {
+      "name": "s-12",
+      "command": "npm run s-12",
+      "runAtStart": false
+    },
+    "e-13": {
+      "name": "e-13",
+      "command": "npm run e-13",
+      "runAtStart": false
+    },
+    "s-13": {
+      "name": "s-13",
+      "command": "npm run s-13",
+      "runAtStart": false
+    },
+    "e-14": {
+      "name": "e-14",
+      "command": "npm run e-14",
+      "runAtStart": false
+    },
+    "s-14": {
+      "name": "s-14",
+      "command": "npm run s-14",
+      "runAtStart": false
+    },
+    "e-15": {
+      "name": "e-15",
+      "command": "npm run e-15",
+      "runAtStart": false
+    },
+    "s-15": {
+      "name": "s-15",
+      "command": "npm run s-15",
+      "runAtStart": false
+    },
+    "e-16": {
+      "name": "e-16",
+      "command": "npm run e-16",
+      "runAtStart": false
+    },
+    "s-16": {
+      "name": "s-16",
+      "command": "npm run s-16",
+      "runAtStart": false
+    },
+    "e-17": {
+      "name": "e-17",
+      "command": "npm run e-17",
+      "runAtStart": false
+    },
+    "s-17": {
+      "name": "s-17",
+      "command": "npm run s-17",
+      "runAtStart": false
+    },
+    "e-18": {
+      "name": "e-18",
+      "command": "npm run e-18",
+      "runAtStart": false
+    },
+    "s-18": {
+      "name": "s-18",
+      "command": "npm run s-18",
+      "runAtStart": false
+    }
+  }
+}
